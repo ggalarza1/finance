@@ -2,6 +2,6 @@
 
 This depository was created to make tools that utilize both finance and coding to help anyone achieve their personal finance goals. 
 
-## 1. Budget Christmas Present Calculator
+## 1. Christmas Present Budget Calculator
 
-The Budget Christmas Present Calculator allows you to you enter your credentials and it calculates how much you should be saving from now until the week before Christmas, I did not include that friday where Christmas lands. This calculator can easily be changed. If you ignore the presents questions, it can be used for any goal.
+Th Christmas Present Budget Calculator allows you to you enter your credentials and it calculates how much you should be saving from now until the week before Christmas, I did not include that friday where Christmas lands. This calculator can easily be changed. If you ignore the presents questions, it can be used for any goal.
